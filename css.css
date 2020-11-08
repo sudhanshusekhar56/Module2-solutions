@@ -11,6 +11,7 @@ h1{
     padding-top: 3%;
     font-family: cursive;
     margin-top:17px;
+    
 }
 .topic>p{
     position: relative;
@@ -33,6 +34,7 @@ h1{
         border: 1px solid black;
         margin: 1%;
         background-color: lightgrey;
+        overflow: auto;
     }
 }
 
@@ -46,6 +48,7 @@ h1{
         margin: 1%;
         background-color: lightgrey;
         margin-bottom: 10px;
+        overflow: auto;
     }
     .col-lg-3{
         width: 92%;
@@ -54,6 +57,7 @@ h1{
         border: 1px solid black;
         margin: 1%;
         background-color: lightgrey;
+        overflow: auto;
     }
 }
 
@@ -65,5 +69,6 @@ h1{
         border: 1px solid black;
         margin: 1%;
         background-color: lightgrey;
+        overflow: auto;
     }
 }
